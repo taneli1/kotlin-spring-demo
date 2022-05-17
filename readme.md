@@ -1,1 +1,1 @@
-# Testing out kotlin with spring
+Testing different spring-boot functionalities with kotlin
